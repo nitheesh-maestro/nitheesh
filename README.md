@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitheesh</h1>
-<h3 align="center">A passionate frontend and machine learning developer</h3>
+<h3 align="center">A frontend developer with a strong passion for machine learning
+ </h3>
 
 - 🔭 I’m currently working on **Messenger web app**
 
