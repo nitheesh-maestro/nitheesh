@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitheesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and machine learning developer</h3>
 
 - 🔭 I’m currently working on **Messenger web app**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **pytorch**
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **js, advance ml algorithm **
 
 - 📫 How to reach me **enitheeshkumar@gmail.com**
 
