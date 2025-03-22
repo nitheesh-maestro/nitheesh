@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer with a strong passion for machine learning
  </h3>
 
-- 🔭 I’m currently working on **Messenger web app**
+- 🔭 I’m currently working on **ml-projects**
 
 - 🌱 I’m currently learning **pytorch**
 
