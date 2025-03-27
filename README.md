@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nitheesh</h1>
-<h3 align="center">A frontend developer with a strong passion for machine learning
+<h3 align="center">A frontend developer with a strong passion for machine learning and deep learning 
  </h3>
 
 - 🔭 I’m currently working on **ml-projects**
 
 - 🌱 I’m currently learning **pytorch**
 
-- 💬 Ask me about **js, advance ml algorithm **
+- 💬 Ask me about **js, advance ml algorithm and deeplearning concept **
 
 - 📫 How to reach me **enitheeshkumar@gmail.com**
 
